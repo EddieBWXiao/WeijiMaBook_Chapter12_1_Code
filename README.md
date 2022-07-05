@@ -5,6 +5,6 @@ Basically showing some figures that might help with 12.1
 
 BayesBook_Transition_Marg.m => visualising the transition function
 
-BayesBook_12_1_simu_ChangeNoise.m => inference when transition function is known (and has analytical expression)
+BayesBook_12_1_simu_ChangeNoise.m => inference when transition function is known (and has analytical expression for updating the estimates)
 
 BayesBook_12_1_simu_MisestNoise.m => misestimation -- observer assumes measurement noise constant
